@@ -4,7 +4,7 @@ import { useEffect, useRef } from 'react'
 import { useLanguage } from '@/contexts/LanguageContext'
 
 /**
- * Layar pembuka: kapsul tergambar garis demi garis, nama muncul, lalu layar terbelah ke atas-bawah
+ * Layar pembuka: menara antena dan gelombang sinyal tergambar garis demi garis, nama muncul, lalu layar terbelah ke atas-bawah
  * dan hero terungkap bertahap (lihat .hero-anim di globals.css).
  * - Tampil di setiap muat ulang dan kunjungan baru; dilewati hanya bila datang dari halaman lain di situs ini (skrip di <head> di layout.tsx menyembunyikannya sebelum cat pertama).
  * - Bisa dilewati: klik, Esc, atau Enter.
@@ -67,12 +67,12 @@ export default function Intro() {
 
       <div className="intro-content">
         <svg className="intro-capsule" viewBox="0 0 160 124" fill="none" aria-hidden="true">
-          <path className="intro-cap-fill-left" d="M22 46h30L112 14v96L52 78H22a8 8 0 0 1-8-8V54a8 8 0 0 1 8-8z" />
-          <path className="intro-cap-line" d="M22 46h30L112 14v96L52 78H22a8 8 0 0 1-8-8V54a8 8 0 0 1 8-8z" pathLength="100" />
-          <path className="intro-cap-mid" d="M128 42c9 9 9 29 0 38M142 28c15 17 15 51 0 68M54 80l8 28h14l-6-28" pathLength="100" />
+          <path className="intro-cap-fill-left" d="M80 46L60 112h40z" />
+          <path className="intro-cap-line" d="M80 46L60 112h40zM85 36a5 5 0 1 1-10 0a5 5 0 0 1 10 0M70 80h20M75 62h10M70 112h20" pathLength="100" />
+          <path className="intro-cap-mid" d="M62 26c-7 8-7 20 0 28M98 26c7 8 7 20 0 28M50 14c-14 16-14 38 0 54M110 14c14 16 14 38 0 54M32 4c-21 24-21 56 0 80M128 4c21 24 21 56 0 80" pathLength="100" />
         </svg>
         <p className="intro-name">Hernanda Melati Sukma</p>
-        <p className="intro-role">PUBLIC RELATIONS</p>
+        <p className="intro-role">{lang === 'en' ? 'TELECOMMUNICATION ENGINEERING' : 'TEKNIK TELEKOMUNIKASI'}</p>
       </div>
 
       <p className="intro-skip">{lang === 'en' ? 'Click to skip' : 'Klik untuk melewati'}</p>
