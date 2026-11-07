@@ -8,7 +8,7 @@ import { useLanguage } from '@/contexts/LanguageContext'
 // Foto dari klien: UKM Olahraga (2 foto kegiatan, 3 desain media kreatif, logo) dan Polsri Sport and Fest 2025 (4 foto).
 const ukmPhotos = ['/projects/org-ukm-1.jpg', '/projects/org-ukm-2.jpg']
 const psfPhotos = [1, 2, 3, 4].map((n) => `/projects/org-psf-${n}.jpg`)
-const mediaPhotos = [1, 2, 3].map((n) => `/projects/org-media-${n}.jpg`)
+const mediaPhotos = [1, 2, 3, 4, 5].map((n) => `/projects/org-media-${n}.jpg`)
 const logoPhoto = '/projects/org-ukm-logo.jpg'
 const orgIds = [1, 2]
 

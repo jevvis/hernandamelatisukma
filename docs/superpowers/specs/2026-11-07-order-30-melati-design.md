@@ -12,9 +12,9 @@ Situs portofolio dwibahasa (ID/EN) dari Template 1 (Next.js 14), kode dasar ORDE
 
 ## Daftar perbedaan CV vs foto (untuk klien)
 1. **Foto profil:** klien menambahkan `Dokumen dari HernandaMelatiSukma.jpg` (folder Dok kuliah_, berkebaya dan berselendang, latar putih); dipakai sebagai foto hero (cutout). Potret berdiri `DSC01772.JPG` tidak lagi dipakai.
-2. **Lama magang:** CV menulis "magang selama tiga bulan" di profil, tetapi periodenya Agustus 2025 - November 2025 (4 bulan). Situs memakai periode.
-3. **Periode tumpang tindih:** magang Pupuk Sriwidjaja (Agu - Nov 2025) berimpit dengan Polsri Sport and Fest (Sep - Okt 2025). Ditampilkan apa adanya.
-4. **Departemen magang:** CV menulis departemen Telekomunikasi dan Elektronika (TELKA), sedangkan lembar penilaian kerja praktik di folder Magang_ menulis "Dept. Pemeliharaan Instrumen" (pembimbing Hermawan). Situs mengikuti CV.
+2. **Lama magang (selesai):** surat keterangan dari klien (WhatsApp 19.27) menyebut Kerja Praktik 4 Agustus 2025 - 3 November 2025 (tepat 3 bulan, sesuai profil CV). Periode di situs sekarang memakai tanggal itu.
+3. **Periode tumpang tindih:** magang Pupuk Sriwidjaja (4 Agu - 3 Nov 2025) berimpit dengan Polsri Sport and Fest (Sep - Okt 2025). Ditampilkan apa adanya.
+4. **Departemen magang:** surat keterangan menulis "Dept. Pemeliharaan Instrumen"; CV menulis departemen Telekomunikasi dan Elektronika (TELKA). Situs menulis keduanya ("Dept. Pemeliharaan Instrumen, bagian TELKA"). Mohon klien konfirmasi apakah TELKA bagian dari Pemeliharaan Instrumen.
 5. **Lembar penilaian KP tidak dipakai** (`DOC-20251204-WA0114._2.jpg`): memuat NIM dan nilai (rata-rata 8,7), tidak ada di CV. Kalau ingin ditampilkan, perlu izin dan NIM disamarkan.
 6. **Tidak ada di CV, ada di foto/catatan klien (ditambahkan dari folder):** Juara II Kyorugi Putri (Piala Bupati Banyuasin, Juli 2024), Wakil Gadis Smantilas Generasi ke-5 (2021), sertifikat ELCB 2023, sertifikat Diksar Mahasiswa Baru 2023, sertifikat Microsoft Excel Umar Computer (2022), LIA Food Bazaar 2026 (Excellent), dan pemilihan Muba Hijab 2023 - 2024 (dari catatan klien dan selempang "Finalis"). Mohon konfirmasi klien mau menampilkan semuanya.
 7. **Data pribadi di sertifikat:** sertifikat Excel Umar Computer memuat tempat dan tanggal lahir (Palembang, 15 Oktober 2005) dan nomor induk; ditampilkan utuh pada gambar. Mohon konfirmasi atau kirim versi tanpa data lahir.
@@ -30,3 +30,7 @@ Situs portofolio dwibahasa (ID/EN) dari Template 1 (Next.js 14), kode dasar ORDE
 ## Tambahan folder Dok kuliah_ (2026-11-07)
 - Foto wisuda (3: `IMG-20260624-WA0265`, `IMG-20260624-WA0266`, `IMG-20260625-WA0038`) dan praktikum (3: antena dipole `IMG-20260505-WA0020`, memegang rangkaian `IMG-20261107-WA0019`, rangkaian Arduino/breadboard `IMG_20240918_080925_872.webp`) dipasang di kartu Pendidikan.
 - `retouch_2024102219410971.jpg` (berdiri di panggung bersponsor CIMB Niaga Digital Lounge) tidak dipakai karena acaranya tidak diketahui; belum ada keterangan dari klien.
+
+## Tambahan WhatsApp (2026-11-07, 19.27)
+- Klien: hasil kerja media kreatif ada di folder UKM olahraga. Kolase UKM Olahraga kini memuat 5 desain (poster Lingkungan Bersih, banner UKM, Hari Buruh, bingkai twibbon hutan, bingkai twibbon Ramadan).
+- Surat keterangan magang PT Pupuk Sriwidjaja (nilai 8,7) masuk sebagai sertifikat pertama di carousel; NIM pada gambar disamarkan (kotak hitam). Lembar penilaian (`DOC-20251204-WA0114._2.jpg`) tetap tidak dipakai.
