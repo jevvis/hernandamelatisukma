@@ -8,8 +8,12 @@ const imgs = (key: string, n: number) => Array.from({ length: n }, (_, i) => `/p
 
 // Susunan seperti Template 1 (ProjectShowcase): kartu bergaya masonry. Foto dari folder klien (Muba hijab dan Bazzar food Lia course).
 const works: { id: number; images: string[] }[] = [
-  { id: 1, images: imgs('muba', 5) },
-  { id: 2, images: imgs('lia', 1) },
+  { id: 1, images: imgs('la', 1) },
+  { id: 2, images: imgs('kp', 3) },
+  { id: 3, images: imgs('cisco', 4) },
+  { id: 4, images: imgs('kyorugi', 1) },
+  { id: 5, images: imgs('muba', 7) },
+  { id: 6, images: imgs('lia', 1) },
 ]
 
 function ProjectCard({ id, images }: { id: number; images: string[] }) {

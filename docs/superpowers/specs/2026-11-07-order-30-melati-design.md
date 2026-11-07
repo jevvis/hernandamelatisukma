@@ -34,3 +34,13 @@ Situs portofolio dwibahasa (ID/EN) dari Template 1 (Next.js 14), kode dasar ORDE
 ## Tambahan WhatsApp (2026-11-07, 19.27)
 - Klien: hasil kerja media kreatif ada di folder UKM olahraga. Kolase UKM Olahraga kini memuat 5 desain (poster Lingkungan Bersih, banner UKM, Hari Buruh, bingkai twibbon hutan, bingkai twibbon Ramadan).
 - Surat keterangan magang PT Pupuk Sriwidjaja (nilai 8,7) masuk sebagai sertifikat pertama di carousel; NIM pada gambar disamarkan (kotak hitam). Lembar penilaian (`DOC-20251204-WA0114._2.jpg`) tetap tidak dipakai.
+
+## Tanggapan klien via WhatsApp (2026-11-07, 19.43 - 19.55)
+- (1) Foto hero: "ganti aja sama foto kebaya atau setelah sidang" - foto kebaya sudah dipakai; foto Teknik Elektro berselempang (setelah sidang) dipakai di Pendidikan dan di kartu Laporan Akhir.
+- (2) Periode magang: "ganti sampai Oktober aja, nanti aku edit lagi CV-nya" - periode di situs menjadi Agu 2025 - Okt 2025. Catatan: surat keterangan (gambar) masih menulis 4 Agustus - 3 November 2025.
+- (3) Nilai magang tidak dimasukkan: teks nilai 8,7 dihapus dan baris nilai pada gambar surat keterangan ditutup (NIM juga ditutup).
+- (4) Klien minta slide khusus sertifikat atau piagam: sudah ada carousel "Sertifikat & Piagam" (7 berkas).
+- (5) "ditampilkan aja kalo nggak ngaruh di penerimaan kerja": hal-hal di luar CV tetap ditampilkan.
+- (6) "Tidak": belum jelas pertanyaan yang dijawab; tidak ada perubahan.
+- "Boleh tambah slide untuk tugas akhir dan KP": ditambahkan kartu Laporan Akhir dan Laporan Kerja Praktik (judul dari catatan klien). Folder baru: CISCO_ (4 simulasi Packet Tracer, dibuat kartu proyek), KP DAN LA (foto seminar KP dan catatan judul), LOmba taekwondo_ (foto pertandingan, kartu Kyorugi), Muba hijab (2 foto baru dipakai).
+- Tidak dipakai: sketsa pensil (`IMG_20230426_104943_646.webp`), foto papan tulis (`IMG_20240423_172715_435.jpg`), tangkapan layar story "Ayat 1000 Dinar", pas foto latar merah (433 x 577, resolusi rendah), dan foto wisuda kiriman WhatsApp 7.53 PM (versi terkompres dari foto yang sudah ada).
