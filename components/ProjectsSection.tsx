@@ -66,7 +66,18 @@ function ProjectCard({ id, images }: { id: number; images: string[] }) {
         </p>
         <h3 className="text-lg font-bold leading-snug mb-1">{t(`proj.${id}.inst`)}</h3>
         <p className="text-[11px] font-semibold text-[var(--muted)] mb-3">{t(`proj.${id}.course`)}</p>
-        <p className="text-xs sm:text-sm text-[var(--muted)] leading-relaxed mb-4">{t(`proj.${id}.desc`)}</p>
+        {t(`proj.${id}.desc`).includes('|') ? (
+          <ul className="text-xs sm:text-sm text-[var(--muted)] leading-relaxed mb-4 flex flex-col gap-1.5">
+            {t(`proj.${id}.desc`).split('|').map((b) => (
+              <li key={b} className="flex gap-2">
+                <span className="mt-[7px] w-1.5 h-1.5 rounded-full bg-emerald-500 shrink-0" />
+                <span>{b}</span>
+              </li>
+            ))}
+          </ul>
+        ) : (
+          <p className="text-xs sm:text-sm text-[var(--muted)] leading-relaxed mb-4">{t(`proj.${id}.desc`)}</p>
+        )}
         <div className="flex flex-wrap gap-1.5">
           {t(`proj.${id}.tags`).split('|').map((tag) => (
             <span key={tag} className="text-[10px] px-2 py-0.5 rounded-md border font-medium bg-[var(--background)] border-[var(--card-border)] text-[var(--muted)]">

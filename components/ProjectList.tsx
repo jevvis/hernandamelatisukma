@@ -29,10 +29,10 @@ const projects = [
   },
   {
     number: '04',
-    title: { id: "Laporan Akhir: CNN Klasifikasi Motif Batik Sumatera Selatan", en: "Final Report: CNN for South Sumatran Batik Motif Classification" },
-    description: { id: "Deep learning berbasis mobile pada UMKM Galeri Batik Wong Kito (2026).", en: "Mobile-based deep learning for the Wong Kito Batik Gallery MSME (2026)." },
+    title: { id: "Tugas Akhir: Aplikasi Android Klasifikasi Batik Sumatera Selatan", en: "Final Project: Android South Sumatran Batik Classification App" },
+    description: { id: "Aplikasi berbasis Android dengan model CNN, analisis kebutuhan, pengujian, dan evaluasi (Jan 2026 — Jun 2026).", en: "An Android app with a CNN model, requirements analysis, testing, and evaluation (Jan 2026 — Jun 2026)." },
     framework: "TUGAS AKHIR D3",
-    techStack: ["Deep Learning", "CNN"],
+    techStack: ["Android", "CNN"],
   },
   {
     number: '05',

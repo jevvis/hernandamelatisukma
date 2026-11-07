@@ -44,3 +44,10 @@ Situs portofolio dwibahasa (ID/EN) dari Template 1 (Next.js 14), kode dasar ORDE
 - (6) "Tidak": belum jelas pertanyaan yang dijawab; tidak ada perubahan.
 - "Boleh tambah slide untuk tugas akhir dan KP": ditambahkan kartu Laporan Akhir dan Laporan Kerja Praktik (judul dari catatan klien). Folder baru: CISCO_ (4 simulasi Packet Tracer, dibuat kartu proyek), KP DAN LA (foto seminar KP dan catatan judul), LOmba taekwondo_ (foto pertandingan, kartu Kyorugi), Muba hijab (2 foto baru dipakai).
 - Tidak dipakai: sketsa pensil (`IMG_20230426_104943_646.webp`), foto papan tulis (`IMG_20240423_172715_435.jpg`), tangkapan layar story "Ayat 1000 Dinar", pas foto latar merah (433 x 577, resolusi rendah), dan foto wisuda kiriman WhatsApp 7.53 PM (versi terkompres dari foto yang sudah ada).
+
+## CV baru (2026-11-07 20.13, `Black and White Minimalist Curriculum Vitae Resume_20261107_195822_0000.pdf`)
+- Periode magang resmi Agustus 2025 - Oktober 2025 (sesuai permintaan klien); kalimat "di area kantor perusahaan" menjadi "di area kantor".
+- Bagian baru **Pengalaman Proyek**: "Implementasi CNN Berbasis Mobile (di CV tertulis "Mobil") untuk Klasifikasi Batik Sumatera Selatan", Tugas Akhir, Januari 2026 - Juni 2026, 5 butir tugas. Kartu Tugas Akhir di situs diganti memakai judul, periode, dan butir ini (tampil sebagai daftar); UMKM Galeri Batik Wong Kito tetap diambil dari catatan klien sebelumnya.
+- Laporan Kerja Praktik (judul dari catatan klien) tidak ada di CV baru; kartunya dipertahankan. Mohon konfirmasi.
+- File CV di tombol "Download CV" diganti dengan CV baru.
+- Belum ada foto untuk Tugas Akhir selain foto setelah sidang: tangkapan layar aplikasi Android (antarmuka), hasil pengujian/akurasi model CNN, dan foto bimbingan atau sidang.
