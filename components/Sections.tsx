@@ -998,10 +998,10 @@ export function EducationSection() {
       gpaLabel: t('metric.ipk'),
       status: t('education.1.status'),
       description: t('education.1.desc'),
-      images: [] as string[], // klien tidak mengirim foto pendidikan
-      imageTag: '',
-      imageCaption: '',
-      uni: '',
+      images: [1, 2, 3, 4, 5, 6].map((n) => `/projects/edu-${n}.jpg`),
+      imageTag: t('education.1.tag'),
+      imageCaption: t('education.1.caption'),
+      uni: t('education.1.uni'),
       footer: t('education.1.footer'),
       highlights: [
         t('education.1.h1'),

@@ -11,7 +11,7 @@ Situs portofolio dwibahasa (ID/EN) dari Template 1 (Next.js 14), kode dasar ORDE
 - Teks buatan pembuat situs (diturunkan dari CV): judul Tentang Saya, kutipan, empat karakter kerja, tagline, deskripsi kartu soft skill dan software, penjelasan bidang fokus.
 
 ## Daftar perbedaan CV vs foto (untuk klien)
-1. **Tidak ada pas foto.** Hero memakai potret berdiri `DSC01772.JPG` (folder UKM olahraga, berhijab abu-abu, lengan bersilang), cutout rembg. Mohon konfirmasi bahwa itu Melati; kalau ada pas foto formal berlatar polos, kirim untuk menggantinya.
+1. **Foto profil:** klien menambahkan `Dokumen dari HernandaMelatiSukma.jpg` (folder Dok kuliah_, berkebaya dan berselendang, latar putih); dipakai sebagai foto hero (cutout). Potret berdiri `DSC01772.JPG` tidak lagi dipakai.
 2. **Lama magang:** CV menulis "magang selama tiga bulan" di profil, tetapi periodenya Agustus 2025 - November 2025 (4 bulan). Situs memakai periode.
 3. **Periode tumpang tindih:** magang Pupuk Sriwidjaja (Agu - Nov 2025) berimpit dengan Polsri Sport and Fest (Sep - Okt 2025). Ditampilkan apa adanya.
 4. **Departemen magang:** CV menulis departemen Telekomunikasi dan Elektronika (TELKA), sedangkan lembar penilaian kerja praktik di folder Magang_ menulis "Dept. Pemeliharaan Instrumen" (pembimbing Hermawan). Situs mengikuti CV.
@@ -26,3 +26,7 @@ Situs portofolio dwibahasa (ID/EN) dari Template 1 (Next.js 14), kode dasar ORDE
 13. **LinkedIn** tercantum di CV dan ditampilkan; Instagram tidak ada di CV sehingga kartu Instagram dihapus.
 14. **Pendidikan:** CV tidak memuat IPK dan klien tidak mengirim foto pendidikan. Status "Lulus" diambil dari profil CV ("lulusan D3", periode sampai Agustus 2026).
 15. **Penulisan nama perusahaan:** CV menulis "PT. Pupuk Sriwijaya" di profil dan "PT. PUPUK SRIWIDJAJA PALEMBANG" di pengalaman; situs memakai "Sriwidjaja" (sesuai pengalaman dan lembar penilaian).
+
+## Tambahan folder Dok kuliah_ (2026-11-07)
+- Foto wisuda (3: `IMG-20260624-WA0265`, `IMG-20260624-WA0266`, `IMG-20260625-WA0038`) dan praktikum (3: antena dipole `IMG-20260505-WA0020`, memegang rangkaian `IMG-20261107-WA0019`, rangkaian Arduino/breadboard `IMG_20240918_080925_872.webp`) dipasang di kartu Pendidikan.
+- `retouch_2024102219410971.jpg` (berdiri di panggung bersponsor CIMB Niaga Digital Lounge) tidak dipakai karena acaranya tidak diketahui; belum ada keterangan dari klien.
